@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of the city of Londonderry in Ireland humbly represented to the honourable House of Commons in Parliament assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31136</idno>
+            <idno type="STC">Wing C1033</idno>
+            <idno type="STC">ESTC R35469</idno>
+            <idno type="EEBO-CITATION">15313892</idno>
+            <idno type="OCLC">ocm 15313892</idno>
+            <idno type="VID">103423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103423)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1146:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of the city of Londonderry in Ireland humbly represented to the honourable House of Commons in Parliament assembled.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: 1699. NUC suggests imprint date 1700; Wing suggests 1698.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Londonderry (Northern Ireland) --  History.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Ireland --  History --  1691-</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:103423:1"/>
+            <head>THE CASE Of the CITY of Londonderry in Ireland.</head>
+            <head type="sub">Humbly Repreſented to the Honourable <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons</hi> in Parliament Aſſembled.</head>
+            <argument>
+               <p>THE ſaid CITY having by Petition to the late <hi>Honourable Houſe of Commons,</hi> and by a Printed Caſe and Account of the Sufferings during the late Siege there, truly ſet forth what they had Done and Suffered on the late Happy Revolution, for Securing and Defence of that Important Place, need not now be repeated, being generally Known, and Acknowledg'd by the Votes of that <hi>Honourable Houſe,</hi> of the 9th of <hi>April</hi> 1698, and their Addreſs thereupon to His Majeſty; as the ſame likewiſe were by the Votes and Addreſs of the <hi>Honourable Houſe of Commons</hi> in <hi>Ireland,</hi> in <hi>December,</hi> 1695, as by the ſaid Petition, Votes and Addreſſes, herewith Printed, may ap<g ref="char:EOLhyphen"/>pear; but have hitherto had no Effect, no proper Fund being found to an<g ref="char:EOLhyphen"/>ſwer that End: So that a great Part of their Suburbs, and many Houſes within the Walls, lie to this Day in Rubbiſh; beſides the many other Loſſes and Diſ<g ref="char:EOLhyphen"/>burſements of the Inhabitants of that Place, for the Publick Service, they have hitherto had no Satisfaction for, yet are never without Hopes to be at length Conſider'd, according to the Circumſtances of their Caſe.</p>
+               <p>AND foraſmuch as the Services and Sufferings of the ſaid City contributed much to the Reduction of <hi>Ireland,</hi> by which the Eſtates of thoſe there in Rebel<g ref="char:EOLhyphen"/>lion became Forfeited: They therefore do now Humbly lay their Caſe before this Honourable Houſe, hoping, That in Appropriating the ſaid Forfeitures, they may be Remembred, and ſome Clauſe be inſerted in the Act to be paſs'd, touching the ſame, for and in Behalf of that City, as may anſwer the Intent of the ſaid <hi>Petition, Votes</hi> and <hi>Addreſſes.</hi>
+               </p>
+            </argument>
+            <p>
+               <hi>All which is Humbly Submitted to the Great Wiſdom and Conſideration of this Honourable Houſe.</hi>
+            </p>
+         </div>
+         <div type="petition">
+            <head>The Humble PETITION of the Mayor, Common<g ref="char:EOLhyphen"/>alty, and Citizens of the City of <hi>Londonderry</hi> in <hi>Ireland.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THAT Your Petitioners <hi>Services</hi> and <hi>Sufferings,</hi> on this late Happy Revolu<g ref="char:EOLhyphen"/>tion, and the Good Effects thereof, by the Mercy of God to theſe King<g ref="char:EOLhyphen"/>doms, are not Unknown <hi>they hope</hi> to this <hi>Honourable Houſe,</hi> nor as yet Forgotten, How early the City of <hi>LONDONDERRY</hi> Appeared and Defended it ſelf to the utmoſt, and was the only Place in <hi>Proteſtant</hi> Hands, and for the Preſent Govern<g ref="char:EOLhyphen"/>ment, that endured the <hi>Miſeries</hi> and <hi>Calamities</hi> of a <hi>SIEGE,</hi> very Fatal to the <hi>Popiſh</hi> Intereſt and Meaſures.</p>
+            <p>THAT Your <hi>Petitioners</hi> have been Great <hi>Sufferers</hi> thereby in many Reſpects, and in a ſingular manner, not only in the Deſtruction of the far greateſt Part of the Suburbs of that City, and all Improvements about it, (as it ſtill remains,) and in the Ruine of many Houſes within the Walls then laid in Rubbiſh, and the reſt greatly ſhatter'd by the Enemies Bombs and Cannon; but alſo by their many Disburſements
+<pb n="2" facs="tcp:103423:2"/>for Securing and Fortifying the Place; Buying and laying in Arms and Ammuni<g ref="char:EOLhyphen"/>tion; Raiſing, Paying, and Subſiſting of Forces; Proviſions of all ſorts conſumed in the Siege by the Garriſon; Cloaths, and other Neceſſaries afforded to the Officers and Soldiers that Defended the City; And Debts contracted for the Publick Uſe and Safety, amounting in all (as on a Moderate Computation appeared) to about <hi>Thirty Thouſand Pounds,</hi> beſides Private Loſſes in common with the reſt of the King<g ref="char:EOLhyphen"/>dom, and the Charge of Relieving many Thouſand <hi>Proteſtants,</hi> fled thither for Refuge. All which has brought them to Great <hi>Poverty</hi> and the ſaid City and Suburbs to a very Ruinous Condition.</p>
+            <p>THAT as they willingly Expoſed Themſelves and their All for the Publick In<g ref="char:EOLhyphen"/>tereſt and Service; ſo they have patiently, theſe <hi>Eight</hi> Years paſt, lain under their Loſſes, Supporting Themſelves with the Hopes, That in good time, eſpecially if the Wars were once ended, and the great Affairs of the Kingdom might admit, Such Conſideration would be had of them, as they ſhould no longer remain a <hi>Poor Ruin<g ref="char:EOLhyphen"/>ous Spectacle to all,</hi> a <hi>Scorn to their Enemies,</hi> and <hi>Diſcouragement to Others,</hi> as they now are: But ſhould (as the Happy Reſult of what they have undergone) be made (as they ſtill hope they ſhall) a Laſting Monument of His MAJESTY's Royal Favour and Bounty, if their CASE ſhould then come before Him, Re<g ref="char:EOLhyphen"/>commended by this <hi>Honourable Houſe.</hi>
+            </p>
+            <p>
+               <hi>YO<g ref="char:V">Ʋ</g>R Petitioners therefore Humbly Pray, That this</hi> Honourable Houſe <hi>would favourably pleaſe to look on them, and take their</hi> Caſe <hi>and</hi> Sufferings, <hi>and the</hi> Ruinous Condition <hi>of the Poor City of</hi> Londonderry <hi>and its Su<g ref="char:EOLhyphen"/>burbs, into Conſideration, and ſo to lay the ſame before His Sacred MAJESTY for His Royal Favour, in order to Your Petitioners Relief in the Kingdom of</hi> Ireland, <hi>as to Your Honours Great Wiſdom ſhall ſeem meet.</hi>
+            </p>
+            <closer>
+               <hi>And Your Petitioners will ever Pray,</hi> &amp;c.</closer>
+         </div>
+         <div type="votes">
+            <head>VOTES of the Houſe of Commons of <hi>England.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Sabbati</hi> 9<hi rend="sup">0</hi> 
+                     <hi>die Aprilis,</hi> 1698.</date>
+               </dateline>
+            </opener>
+            <p>SIR <hi>Robert Clayton</hi> Reported from the Committee, to whom the Petition of the Mayor, Commonalty and Citizens of the City of <hi>Londonderry,</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> was Referred; That thay had Examined and Conſidered the ſame, and come to ſeveral Reſolutions, which they had Directed him to Report to the Houſe, which he Read in his Place, and afterwards Delivered in at the Table, where the ſame were Read, and (with an Amendment of One of them) Agreed unto by the Houſe, and are as follow, <hi>(viz.)</hi>
+            </p>
+            <p>
+               <hi>Reſolved,</hi> That the Allegations contained in the Petition, are True.</p>
+            <p>
+               <hi>Reſolved,</hi> That it appeared to the Committee, upon Examination of the Petiti<g ref="char:EOLhyphen"/>on, That the Publick Loſſes, Disburſements and Damages ſuſtained by the Inhabi<g ref="char:EOLhyphen"/>tants of that City, are, in the ſaid Petition, very moderately Computed; and that the Loſſes, beſides to particular and private Perſons, are very great.</p>
+            <p>
+               <hi>Reſolved,</hi> That the Services and Sufferings of that City, on this late Revolution, were very Eminent, and of great Conſequence to his Majeſty's Service, and the Preſervation of the Three Kingdoms.</p>
+            <p>
+               <hi>Reſolved,</hi> That in regard thereof, the ſaid City hath well Deſerved to be Con<g ref="char:EOLhyphen"/>ſidered, for the Damages in the Petition mentioned, and to have ſome ſpecial Mark of His Majeſty's Bounty, for a laſting Monument to Poſterity.</p>
+            <p>That in order thereto, it is humbly Propoſed, That ſomething in particular, which the Wiſdom of this Honourable Houſe ſhall think fit, be humbly Recom<g ref="char:EOLhyphen"/>mended to His Majeſty, to be done for the ſame.</p>
+            <p>
+               <hi>Ordered,</hi> That it be Referred to the ſame Committee, to Draw up an Addreſs, to be Preſented to his Majeſty, ſetting forth the Subſtance of the ſaid Petition, and the ſaid Reſolutions, and humbly Praying, That His Majeſty will pleaſe to make ſome Compenſation for the ſaid Damages, out of the Cuſtoms of the ſaid City, or otherwiſe, as His Majeſty, in his Princely Wiſdom, ſhall think fit.</p>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Jovis</hi> 23 <hi>die Junii,</hi> 1698.</date>
+                  </dateline>
+               </opener>
+               <p>Sir <hi>Robert Clayton</hi> Reported from the Committee, to whom the Addreſs relating to the City of <hi>Londonderry,</hi> in <hi>Ireland,</hi> was Committed; That they had Drawn
+<pb n="3" facs="tcp:103423:2"/>up an Addreſs, which they had Directed him to Report to the Houſe, which he Read in his Place, and afterwards Delivered in at the Table, where the ſame was Read, and Agreed unto by the Houſe; and is as followeth, <hi>viz.</hi>
+               </p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>Moſt Gracious Sovereign,</salute>
+                     </opener>
+                     <p>
+                        <hi>WE Your Majeſty's moſt Loyal and Dutiful Subjects, the Commons in Parliament Aſſembled, having Received a Petition from the Mayor, Commonalty, and Citi<g ref="char:EOLhyphen"/>zens in Your City of</hi> London-Derry, <hi>in</hi> Ireland; <hi>Setting forth their Early and Singu<g ref="char:EOLhyphen"/>lar Services and Sufferings on the late happy Revolution, by the Securing and Defence of that City, againſt a Long and Cruel Siege (which Eminently contributed to the deſtroy<g ref="char:EOLhyphen"/>ing the Deſigns of the Enemies of theſe Kingdoms,) And ſhewing, That thereby not only the greateſt Part of the City and Suburbs was Demoliſhed, or rendred Ruinous, but alſo that their Disburſements upon this Occaſion, for Fortifying, Providing Arms and Am<g ref="char:EOLhyphen"/>munition, Raiſing and Subſiſting Forces, and other Publick <g ref="char:V">Ʋ</g>ſes, did Amount to a very conſiderable Summ of Money.</hi>
+                     </p>
+                     <p>
+                        <hi>And that as they had willingly Expoſed Themſelves, and their All, for the Publick In<g ref="char:EOLhyphen"/>tereſt and Service, ſo they had patiently, theſe Eight Years, lain under their Loſſes; in hopes, at the End of the War to be ſo conſidered, as they ſhould no longer remain a</hi> poor ruinous Spectacle <hi>to all, a</hi> Scorn <hi>to their Enemies, and a</hi> Diſcouragement <hi>to Your Ma<g ref="char:EOLhyphen"/>jeſty's well-affected Subjects: And Praying our Recommendation of their Caſe to Your Majeſty, for Your Royal Favour, in order to their Relief in the Kingdom of</hi> Ireland.</p>
+                     <p>
+                        <hi>And it alſo appeared upon Examination, That the Governour and Garriſon who, through the utmoſt Sufferings and Extremities defended the ſame, do likewiſe deſerve to have ſo ſignal a Service taken into Conſideration: And the ſaid City, who have ſo Emi<g ref="char:EOLhyphen"/>nently Suffered, to have ſome ſpecial Mark of Your Majeſty's Favour, for a laſting Mo<g ref="char:EOLhyphen"/>nument to Poſterity.</hi>
+                     </p>
+                     <p>
+                        <hi>All which we do moſt humbly Repreſent to Your Majeſty, Praying, That in Conſide<g ref="char:EOLhyphen"/>ration of the Premiſſes, Your Majeſty would be graciouſly Pleaſed to make ſome Compen<g ref="char:EOLhyphen"/>ſation to the ſaid City, Governour, and Garriſon, by ſuch Ways and Means, and in ſuch Manner as Your Majeſty, in your Princely Wiſdom ſhall think fit.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>That the ſaid Addreſs be Preſented to His Majeſty by ſuch Members of this Houſe as are of His Majeſty's moſt Honourable Privy-Council.</p>
+            </div>
+         </div>
+         <div type="votes">
+            <head>VOTES of the Houſe of Commons of <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Jovis</hi> 5 <hi>die Decembris,</hi> 1695.</date>
+               </dateline>
+            </opener>
+            <p>MR. <hi>Anderſon Saunders</hi> Reported from the Committee appointed to take into Conſideration the Petition of the Mayor, Citizens and Commonalty of the City of <hi>Londonderry;</hi> That they had come to ſeveral Reſolutions in the Mat<g ref="char:EOLhyphen"/>ter to them Referred, which he Read in his Place, and after delivered in at the Ta<g ref="char:EOLhyphen"/>ble, where the ſame were again Read, and are as followeth.</p>
+            <p>
+               <hi>Reſolved,</hi>
+            </p>
+            <p>That it appears fully to this Committee, That the Extraordinary Loſſes, Dis<g ref="char:EOLhyphen"/>burſements and Debts, Contracted by the Inhabitants of <hi>Londonderry,</hi> from and af<g ref="char:EOLhyphen"/>ter <hi>November,</hi> 1698, in Securing and Fortifying the Place, in Buying and Laying in of Arms and Ammunition, in Subſiſting with Proviſions of all ſorts, Cloaths, and other Neceſſaries, thoſe that were in that Garriſon, for its Defence, during the Siege, and in Houſes ruined thereby, and for Defence of the Place, doth amount to a great Summ. And it further appears to us, That <hi>David Cairnes,</hi> 
+               <abbr>Eſq</abbr> a Mem<g ref="char:EOLhyphen"/>ber of the ſaid City, and now one of their Repreſentatives in Parliament, was Remarkably Inſtrumental in the firſt Securing the ſaid City againſt the <hi>Iriſh,</hi> and afterwards underwent ſeveral hazardous Journeys for Preſerving the ſame; and that he was a great Sufferer by the Siege.</p>
+            <p>
+               <hi>Reſolved,</hi>
+            </p>
+            <p>That it is the Opinion of this Committee, That in Regard of the Premiſſes, and of the Services and Sufferings of that City, on the late Revolution, that were of ſuch Conſequence to theſe Kingdoms, and the whole Proteſtant Intereſt, That an Humble Addreſs be made by this Houſe to His Excellency the Lord-Deputy, on the
+<pb n="4" facs="tcp:103423:3" rendition="simple:additions"/>Petitioners Behalf, That he would be pleaſed to lay their Caſe before His Majeſty, and to Recommend the ſame in the moſt Effectual manner to His Royal Conſidera<g ref="char:EOLhyphen"/>tion and Favour, to do therein for the Petitioners Relief, as he in his Princely Wiſdom ſhall think fit.</p>
+            <p>To which Reſolutions, the Queſtion being ſeverally put, the Houſe did agree.</p>
+            <p>
+               <hi>Ordered,</hi>
+            </p>
+            <p>That it be Referred to the ſame Committee to Prepare an Addreſs of this Houſe to His Excellency the Lord Deputy, Purſuant to the ſaid Reſolutions, and Report the ſame to the Houſe.</p>
+            <p>
+               <hi>Which was accordingly done, and Agreed to by the Houſe; and here follows.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <head>To His Excellency <hi>Henry</hi> Lord <hi>Capel,</hi> Baron of <hi>Tewksbury,</hi> Lord Deputy-General, and General, Governour of <hi>Ireland: The Humble ADDRESS of the Knights, Citizens, and Burgeſſes, in Parliament Aſſembled.</hi>
+                  </head>
+                  <opener>
+                     <salute>May it Pleaſe Your Excellency,</salute>
+                  </opener>
+                  <p>
+                     <hi>THE Mayor, Commonalty and Citizens of the City of</hi> Londonderry, <hi>having, by a Petition lately preferr'd unto us, ſet forth the Great Loſſes, Disburſements, and Sufferings by them ſuſtained in the late Revolution, and great Debts contracted on the Publick Account, by their early Securing and Fortifying that Place, for Their Maje<g ref="char:EOLhyphen"/>ſties and the Proteſtant Intereſt, Buying of Arms, Ammunition, and Subſiſting with Proviſions, Cloaths, and other Neceſſaries, thoſe that were in that Garriſon, for its Defence, during the Siege; and that a great Part of their City and Suburbs were Ruined and Deſtroyed thereby, and for Defence of the Place, to their great Impoveriſhment, praying us to Recommend them to Your Excellency as proper Objects of His Majeſty's Princely Favour, to be Conſidered by His Majeſty, as he in his Royal Wiſdom ſhould think fit.</hi>
+                  </p>
+                  <p>
+                     <hi>We humbly lay before Your Excellency, That we have Conſidered the Matters in the Petition contained, and Carefully Examined a Particular State or Account, produced before us, of the Extraordinary Loſſes, Disburſements, and Debts contracted by the Inhabitants of the ſaid City, from</hi> November, 1688, <hi>on the Grounds and Occaſions in the Petition ſet forth, and do find that the ſame doth amount to a very great Summ.</hi>
+                  </p>
+                  <p>
+                     <hi>And being very ſenſible how well that City hath deſerved by its Eminent Services and Sufferings, that were of ſo great Importance to theſe Kingdoms, and the whole Prote<g ref="char:EOLhyphen"/>ſtant Intereſt.</hi>
+                  </p>
+                  <p>
+                     <hi>We therefore humbly deſire, That Your Excellency would be Pleaſed to lay the Petitioners Caſe before His Sacred Majeſty, and to Recommend the ſame in the moſt Effectual manner to his Princely Conſideration. And that Your Excellency would be alſo Pleaſed to take Notice therein of</hi> David Cairnes, <abbr>
+                        <hi>Eſq</hi>
+                     </abbr> 
+                     <hi>a Member of that City, and one of their now Repre<g ref="char:EOLhyphen"/>ſentatives in Parliament, in Regard of his Early Services, in the firſt Securing the ſaid City againſt the</hi> Iriſh, <hi>and ſeveral hazardous Jour<g ref="char:EOLhyphen"/>neys made by him, in order to the Relief of the ſame, and his Great Loſſes by the Siege.</hi>
+                  </p>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
